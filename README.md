@@ -1,7 +1,7 @@
 <h1 align="center">
   React JS Feed
 </h1>
-<p align="center">Project created to practice React JS concepts with Typescript</p>
+<p align="center">This project was created in Ignite (program from <a href="https://www.rocketseat.com.br/">Rocketseat</a>) - Created to practice React JS concepts with Typescript</p>
 
 ![Captura de tela de 2022-06-21 23-44-17](https://user-images.githubusercontent.com/103274980/174932255-905c6d76-15da-4f5d-9840-85986d0ff310.png)
 
